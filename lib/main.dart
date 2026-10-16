@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// StockSight project setup tested by Prarthana Alagoda.
+
 void main() {
   runApp(const MyApp());
 }
